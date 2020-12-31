@@ -1,0 +1,2 @@
+Java: https://github.com/rdejong81/designpatterns-os3-groep2
+C#: https://github.com/rdejong81/designpatterns-s3-cs
